@@ -1,0 +1,13 @@
+.navbar{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.table{
+    margin:10px !important;
+}
+.dises{
+    border:0.1px solid rgb(182, 182, 182);
+    padding:10px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
